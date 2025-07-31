@@ -1,7 +1,7 @@
-Worktable Backend
-This repository contains the backend for a worktable test built using NestJS.
+# Worktable Backend
+## This repository contains the backend for a worktable test built using NestJS.
 
-Getting Started
+## Getting Started
 To run the application in development mode, use the following commands:
 
 ```bash
